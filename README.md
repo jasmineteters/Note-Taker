@@ -39,7 +39,7 @@ no tests
 ## Contact
 
 To view the code for this project visit the github profile below.
-Github Profile: [jasmineteters](github.com/jasmineteters)
+Github Profile: [jasmineteters](https://www.github.com/jasmineteters)
 
 For any questions contact us via email.
 Email: [jasmineteters2020@gmail.com](mailto:jasmineteters2020@gmail.com)
