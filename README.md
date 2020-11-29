@@ -46,8 +46,9 @@ Email: [jasmineteters2020@gmail.com](mailto:jasmineteters2020@gmail.com)
 ## Deployment:
 
 Link to the GitHub Repo: https://github.com/jasmineteters/Note-Taker
+
 Link to the GitHub live page: https://notetakerjt.herokuapp.com/
 
 ## Gif
 
-![](/public/assets/note-taker.gif)
+![](./public/assets/note-taker.gif)
