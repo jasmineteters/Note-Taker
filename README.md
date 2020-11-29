@@ -51,4 +51,4 @@ Link to the GitHub live page: https://notetakerjt.herokuapp.com/
 
 ## Gif
 
-![](public/assets/note-taker.gif)
+![](public/assets/Note-Taker.gif)
